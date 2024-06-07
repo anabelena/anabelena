@@ -5,7 +5,7 @@
 
 ## I'm Belen 👩🏻‍💻 a Computer Scientist.
 
-### 💻 &nbsp;About Me 
+### &nbsp;About Me 
 
 - 🤓  Experienced in ERP development and implementation.
 - 💻  Currently working, learning and growing my skillset in web development.
