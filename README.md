@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I am Belen 👋<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hi there, I am Belen <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 ### Hi there 
 ## I'm Belen 👩🏻‍💻 a  Computer Scientist. 
