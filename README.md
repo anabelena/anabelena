@@ -12,11 +12,10 @@
 
 ### 🌟 &nbsp;Key Skills
 
-Proficient in Python, Java, and JavaScript
+Currently working in projects with JavaScript and Python.
 Web development with HTML, CSS, and frameworks like React and Angular
 Experience with SQL and NoSQL databases
-Knowledge in artificial intelligence and machine learning
-  
+
 
  <img src="https://komarev.com/ghpvc/?username=anabelena&color=blueviolet&style=for-the-badge&base=1000"> 
 
