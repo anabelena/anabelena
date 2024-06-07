@@ -19,7 +19,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=radical)" > </p>
 
 
- 
+ ## 🔮 Tools, Technologies and Languages
 
 
 ## 📧 Contact me
