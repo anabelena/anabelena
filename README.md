@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I am Belen <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hi there, I am Belen 🦙 <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 ![](https://komarev.com/ghpvc/?username=anabelena&color=ff69b4&label=🙃Nice_To_Meet_U!_You+are+my+visitor+No.&style=for-the-badge&base=1010)
 
