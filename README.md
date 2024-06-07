@@ -4,14 +4,14 @@
 ![](https://komarev.com/ghpvc/?username=anabelena&color=blueviolet&label=🙃Nice_To_Meet_U!_You+are+my+visitor+No.&style=for-the-badge&base=1010)
 
 
-## 🙋🏻‍♀️ About me
+## 🧒🏽 About me
 
-- 🤓  Experienced in ERP development and implementation.
+- 🧠  Experienced in ERP development and implementation.
 - 💻  Currently working, learning and growing my skillset in web development.
 - 🫶🏻  I love exploring new tech stack and building cool stuffs.
 - 🤝  Open for collaborations in web development. 🕸️
 - 🔥  Fun fact: My dream is become poliglot. (Currently learning French)
-- 📝  Checkout my LinkedIn.
+
 
 ## 📊 GitHub Stats 
 
