@@ -11,4 +11,4 @@
 - 🎓 &nbsp; Bachelor in Computer Science & Engineering.
   
 
-<p> <img src="https://komarev.com/ghpvc/?username=anabelena&color=blueviolet&style=for-the-badge"> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=anabelena&color=blueviolet&style=for-the-badge&base=1000"> </p>
