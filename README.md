@@ -17,10 +17,10 @@
 
 
 
- <div style="display: flex; gap: 10px; justify-content: center;">
+
         <img alt="b" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&layout=donut" />
         <img alt="a" src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=radical)"> 
- </div>
+
 
 
 
