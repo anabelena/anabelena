@@ -11,3 +11,4 @@
 - 🎓 &nbsp; Bachelor in  Computer Science & Engineering at "Universidad Catolica de Santia Maria" - Peru.
   
 
+<p> <img src="https://komarev.com/ghpvc/?username=anabelena"> </p>
