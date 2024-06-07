@@ -24,9 +24,12 @@
 
 ## 📧 Contact me
 
-[![gmail_badge]](mailto:anabelen.aristah@gmail.com) [![linkedin_badge]][linkedin]
+[![gmail_badge]](mailto:anabelen.aristah@gmail.com) [![linkedin_badge]][linkedin] 
 
 
+<!-- profile links -->
+[github_profile]: https://github.com/anabelena "Github Profile"
+[linkedin]: https://linkedin.com/in/belenarista "Linkedin Profile"
 
 <!-- badges -->
 [gmail_badge]: https://img.shields.io/badge/-anabelen.aristah%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabelen.aristah@gmail.com
