@@ -2,9 +2,9 @@
 
 
 ### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=anabelena&color=blueviolet&style=for-the-badge&base=1000"> 
 
 ## I'm Belen 👩🏻‍💻 a <strong> Computer Scientist. </strong>
+<img src="https://komarev.com/ghpvc/?username=anabelena&color=blueviolet&style=for-the-badge&base=1000"> 
 
 ### &nbsp;About Me 
 
