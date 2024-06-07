@@ -30,11 +30,11 @@ Experience with SQL and NoSQL databases
 
 ## 📧 Contact me
 
-[![gmail_badge]](mailto:anabelen.aristah@gmail.com) [![linkedin_badge]][linkedin]  ![visitors](https://visitor-badge.glitch.me/badge?page_id=belenarista.belenarista)
+[![gmail_badge]](mailto:anabelen.aristah@gmail.com) 
 
 
 
 <!-- badges -->
 [gmail_badge]: https://img.shields.io/badge/-anabelen.aristah%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabelen.aristah@gmail.com
-[linkedin_badge]: https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/belenarista
+
 -----
