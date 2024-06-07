@@ -17,11 +17,9 @@
 
  <img src="https://komarev.com/ghpvc/?username=anabelena&color=blueviolet&style=for-the-badge&base=1000"> 
 
-<section styles="display:flex; ">
-
- <img src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=radical)"> 
+<section styles="display:flex; gap:10px; justify-content:center; align-items:center; ">
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&layout=donut" />
- 
+ <img src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=radical)"> 
 </section>
 
 
