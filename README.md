@@ -1,7 +1,7 @@
 
+<h1 align="center">Hi there, I am Belen 👋<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
-
-### Hi there 👋
+### Hi there 
 ## I'm Belen 👩🏻‍💻 a  Computer Scientist. 
 <img src="https://komarev.com/ghpvc/?username=anabelena&color=blueviolet&style=for-the-badge&base=1000"> 
 
