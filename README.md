@@ -2,8 +2,9 @@
 
 
 ### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=anabelena&color=blueviolet&style=for-the-badge&base=1000"> 
 
-## I'm Belen 👩🏻‍💻 a Computer Scientist.
+## I'm Belen 👩🏻‍💻 a <strong> Computer Scientist. </strong>
 
 ### &nbsp;About Me 
 
@@ -15,10 +16,9 @@
 
 
 
- <img src="https://komarev.com/ghpvc/?username=anabelena&color=blueviolet&style=for-the-badge&base=1000"> 
 
 <section styles="display:flex; gap:10px; justify-content:center; align-items:center; ">
- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&layout=donut" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&layout=donut" />
  <img src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=radical)"> 
 </section>
 
