@@ -35,6 +35,6 @@ Experience with SQL and NoSQL databases
 
 
 <!-- badges -->
-[gmail_badge]: https://img.shields.io/badge/-martin.deboute%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabelen.aristah@gmail.com
+[gmail_badge]: https://img.shields.io/badge/-anabelen.aristah%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anabelen.aristah@gmail.com
 [linkedin_badge]: https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/belenarista
 -----
