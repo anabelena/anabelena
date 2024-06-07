@@ -14,15 +14,9 @@
 - 🤝  Open for collaborations in web development. 🕸️
 - 📝  Checkout my LinkedIn.           
 
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&layout=donut"> </p>
 
-
-
-
-        <img alt="b" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&layout=donut" />
-        <img alt="a" src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=radical)"> 
-
-
-
+<p> <img src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=radical)" > </p>
 
 
 ## 📧 Contact me
