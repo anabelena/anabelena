@@ -13,11 +13,6 @@
 - 🤝  Open for collaborations in web development. 🕸️
 - 📝  Checkout my LinkedIn.           
 
-### 🌟 &nbsp;Key Skills
-
-Currently .
-Web development with HTML, CSS, and frameworks like React and Angular
-Experience with SQL and NoSQL databases
 
 
  <img src="https://komarev.com/ghpvc/?username=anabelena&color=blueviolet&style=for-the-badge&base=1000"> 
