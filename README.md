@@ -2,11 +2,11 @@
 
 
 ### Hi there 👋
-
 ## I'm Belen 👩🏻‍💻 a  Computer Scientist. 
 <img src="https://komarev.com/ghpvc/?username=anabelena&color=blueviolet&style=for-the-badge&base=1000"> 
 
-### &nbsp;About Me 
+
+## 🙋🏻‍♀️ About me
 
 - 🤓  Experienced in ERP development and implementation.
 - 💻  Currently working, learning and growing my skillset in web development.
