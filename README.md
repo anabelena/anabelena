@@ -10,7 +10,9 @@
 - 💻  Currently working, learning and growing my skillset in web development.
 - 🫶🏻  I love exploring new tech stack and building cool stuffs.
 - 🤝  Open for collaborations in web development. 🕸️
-- 📝  Checkout my LinkedIn.           
+- 📝  Checkout my LinkedIn.
+
+## 📊 GitHub Stats 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&layout=donut"> </p>
 
