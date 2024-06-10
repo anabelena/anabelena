@@ -15,6 +15,7 @@
 
 ## 📊 GitHub Stats 
 
+<section styles="display:flex; justify-content:center;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=material-palenight&rank_icon=github&include_all_commits=True"/> 
 </a>
@@ -22,7 +23,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&hide_progress=true&theme=material-palenight&card_width=320"/> 
 </a>
-
+</section>
  ## 🔮 Tools, Technologies and Languages
 
 
