@@ -16,7 +16,7 @@
 ## 📊 GitHub Stats 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=material-palenight&rank_icon=github&card_width=300px"/> 
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=material-palenight&rank_icon=github"/> 
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
