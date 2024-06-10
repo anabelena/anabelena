@@ -15,9 +15,14 @@
 
 ## 📊 GitHub Stats 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&layout=donut"> </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=material-palenight"/> 
+</a>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=radical)" > </p>
+<a href="https://github.com/anuraghazra/convoychat">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&hide_progress=true&theme=material-palenight"/> 
+</a>
+
 
 
  ## 🔮 Tools, Technologies and Languages
