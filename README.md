@@ -14,14 +14,19 @@
 
 
 ## 📊 GitHub Stats 
+ <p align="center">
+     <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=material-palenight&rank_icon=github&include_all_commits=True"/> 
+ </p>
 
-   
-   <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-       <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=material-palenight&rank_icon=github&include_all_commits=True"/> 
-   </a>
-   <a href="https://github.com/anuraghazra/convoychat" align="center" >
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&hide_progress=true&theme=material-palenight"/> 
-   </a>
+ <p align="center">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&hide_progress=true&theme=material-palenight"/>  
+ </p>
+  
+      
+ 
+  
+     
+ 
 
 
 
