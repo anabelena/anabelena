@@ -15,7 +15,7 @@
 
 ## 📊 GitHub Stats 
  <p align="center">
-     <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=material-palenight&rank_icon=github&include_all_commits=True"/> 
+     <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=material-palenight&rank_icon=github"/> 
  </p>
 
  <p align="center">
