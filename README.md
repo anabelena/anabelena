@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola, I am Belén!<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hello, I am Belén!<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 ![](https://komarev.com/ghpvc/?username=anabelena&color=blueviolet&label=🙃Nice_To_Meet_U!_You+are+my+visitor+No.&style=for-the-badge&base=1010)
 
@@ -19,7 +19,7 @@
  </p>
 
  <p align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&hide_progress=true&theme=material-palenight"/>  
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&hide_progress=true&theme=material-palenight"/> 
  </p>
   
 
