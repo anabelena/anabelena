@@ -9,7 +9,7 @@
 - 🧠  Experienced in ERP development and implementation.
 - 💻  Currently working, learning and growing my skillset in web development.
 - 🫶🏻  I love exploring new tech stack and building cool stuffs.
-- 🤝  Open for collaborations in web development. 🕸️
+- 🤝  Open for collaborations in web development. 
 - 🙃  Fun fact: My dream is become poliglot. (Currently learning French)
 
 
