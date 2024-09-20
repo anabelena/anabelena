@@ -38,7 +38,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 
 
-## 📧 Contact me
+## 📧 Contact me:
 
 [![gmail_badge]](mailto:anabelen.aristah@gmail.com) [![linkedin_badge]][linkedin] 
 
