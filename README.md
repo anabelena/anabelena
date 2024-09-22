@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, I am Belén!<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Hola, I am Belén!<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 ![](https://komarev.com/ghpvc/?username=anabelena&color=blueviolet&label=🙃Nice_To_Meet_U!_You+are+my+visitor+No.&style=for-the-badge&base=1010)
 
@@ -37,11 +37,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 
-
 ## 📧 Contact me:
 
 [![gmail_badge]](mailto:anabelen.aristah@gmail.com) [![linkedin_badge]][linkedin] 
-
 
 <!-- profile links -->
 [github_profile]: https://github.com/anabelena "Github Profile"
