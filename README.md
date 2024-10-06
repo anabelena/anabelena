@@ -6,7 +6,7 @@
 
 ## 🧒🏽 About me!
 
-- 🧠  Experienced in ERP development and implementation.
+- 🧠  I'm passionate full-stack web developer with a background in computer science and business administration.
 - 💻  Currently working, learning and growing my skillset in web development.
 - 🫶🏻  I love exploring new tech stack and building cool stuffs.
 - 🤝  Open for collaborations in web development. 
