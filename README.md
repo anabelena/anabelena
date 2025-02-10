@@ -7,7 +7,7 @@
 ## 🧒🏽 About me!
 
 - 🧠  I'm passionate  web developer with a background in computer science and business administration.
-- 💻  Currently working, learning and growing my skillset in web development.
+- 💻  Currently working in projects with NEXT.JS
 - 🫶🏻  I love exploring new tech stack and building cool stuffs.
 - 🤝  Open for collaborations in web development. 
 
