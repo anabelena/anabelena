@@ -1,9 +1,9 @@
-<h1 align="center"> Hi · Allô · Hola — I’m Belen 👩‍💻 <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center"> Hi · Allô · Hola — I’m Belen 👩🏽 </h1>
 
 ![](https://komarev.com/ghpvc/?username=anabelena&color=gray&label=You+are+my+visitor+No.&style=for-the-badge&base=1010)
 
 
-## 🧒 About me!!!
+## 💁🏽‍♀️ About me!!!
 
 - 🧠  I'm passionate  web developer with a background in computer science and business administration.
 - 💻  Currently working in projects with NEXT.JS
