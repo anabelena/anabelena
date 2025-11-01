@@ -1,4 +1,4 @@
-<h1 align="center"> Hi! Hola! Allo! I am Belén!!! <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center"> Hi · Allô · Hola — I’m Belen 👩‍💻 <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 ![](https://komarev.com/ghpvc/?username=anabelena&color=gray&label=You+are+my+visitor+No.&style=for-the-badge&base=1010)
 
