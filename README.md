@@ -11,15 +11,6 @@
 
 ## 📊 GitHub Stats 
 
- <p align="center">
-     <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=anabelena&show_icons=true&theme=material-palenight&rank_icon=github"/> 
- </p>
-
- <p align="center">
-    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabelena&layout=donut&theme=material-palenight"/> 
- </p>
-  
-
  ## 🔮 Tools, Technologies and Languages
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
